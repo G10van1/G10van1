@@ -1,11 +1,11 @@
 <div style="position: relative;">
   <div style="position: fixed; top: 10px; right: 10px;">
-    <a href="#versão-em-português">[Português]</a>   <a href="README.md">[English]</a>
+    <a href="# ">[Português]</a>   <a href="README.md">[English]</a>
   </div>
 </div>
 _________________________________________________________________________________________________________________________
 
-### Versão em Português
+### 
 Apaixonado por Tecnologia e Inovação. Empolgado em resolver problemas complexos e criar soluções inovadoras.
 Busco a melhoria contínua, pessoal e profissional. Acredito muito na troca e compartilhamento de experiências, aumentando a sinergia e estimulando a criatividade.
 Aprendizado contínuo, sempre disposto a conhecer e aprender novas tecnologias.
