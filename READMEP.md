@@ -4,6 +4,7 @@
   </div>
 </div>
 _________________________________________________________________________________________________________________________
+
 ### Versão em Português
 Apaixonado por Tecnologia e Inovação. Empolgado em resolver problemas complexos e criar soluções inovadoras.
 Busco a melhoria contínua, pessoal e profissional. Acredito muito na troca e compartilhamento de experiências, aumentando a sinergia e estimulando a criatividade.
