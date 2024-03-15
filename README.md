@@ -1,6 +1,6 @@
 <div style="position: relative;">
   <div style="position: fixed; top: 10px; right: 10px;">
-    <a href="#versão-em-português">[Português]</a>   <a href="#english-version">[English]</a>
+    <a href="READMEP.md">[Português]</a>   <a href="#english-version">[English]</a>
   </div>
 </div>
 
