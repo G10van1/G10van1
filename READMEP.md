@@ -20,7 +20,7 @@ Aprendizado contínuo, sempre disposto a conhecer e aprender novas tecnologias.
 - **Plataformas de Nuvem:** Azure, AWS
 - **Controle de Versão:** Git, GitHub, GitFlow
 - **DevOps:** Docker, OpenShift, Kubernates, CI/CD
-- **Design de Software:** SOLID Principles, Design Patterns, Clean Code
+- **Design de Software:** SOLID Principles, Design Patterns, Clean Code, DDD, TDD
 - **Linguagens Mais Utilizadas:** 
     
     ![Linguagens Mais Utilizadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=G10van1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
