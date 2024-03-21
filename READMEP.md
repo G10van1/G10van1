@@ -11,13 +11,16 @@ Busco a melhoria contínua, pessoal e profissional. Acredito muito na troca e co
 Aprendizado contínuo, sempre disposto a conhecer e aprender novas tecnologias.
 
 ## Tecnologias 💻
-- **Linguagens:** C#, .Net, UWP, Java, C++, Xamarin, Python
-- **Desenvolvimento Web:** ReactJS, AngularJS
-- **Bancos de Dados:** SQL, SQL Server, MySQL, Cosmos DB, MongoDB
-- **Frameworks/Ferramentas:** ASP.NET MVC, Entity Framework, Dapper, WPF, Swagger, PostMan
+- **Linguagens:** C#, C++, Java, Python, Javascript, TypeScript, CSS, HTML
+- **Backend Desenvolvimento:** .Net, ASP.NET
+- **Frontend Desenvolvimento:** ReactJS, AngularJS, WPF
+- **Mobile Desenvolvimento:** UWP, Xamarin
+- **Bancos de Dados:** SQL, SQL Server, MySQL, SQLite, Cosmos DB, MongoDB
+- **Frameworks/Ferramentas:**  Entity Framework, Dapper, Swagger, PostMan, Visual Studio, VS Code
 - **Plataformas de Nuvem:** Azure, AWS
-- **Controle de Versão:** Git
-- **Design de Software:** Princípios SOLID, Padrões de Design, Clean Code
+- **Controle de Versão:** Git, GitHub, GitFlow
+- **DevOps:** Docker, OpenShift, Kubernates, CI/CD
+- **Design de Software:** SOLID Principles, Design Patterns, Clean Code
 - **Linguagens Mais Utilizadas:** 
     
     ![Linguagens Mais Utilizadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=G10van1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
