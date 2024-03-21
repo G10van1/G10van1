@@ -28,10 +28,12 @@ I seek continuous improvement, personal and professional. I really believe in ex
 Continuous learning, always willing to know and learn new technologies.
 
 ## Technologies 💻
-- **Languages:** C#, .Net, UWP, Java, C++, Xamarin, Python
-- **Web Development:** ReactJS, AngularJS
-- **Databases:** SQL, SQL Server, MySQL, Cosmos DB, MongoDB
-- **Frameworks/Tools:** ASP.NET MVC, Entity Framework, Dapper, WPF, Swagger, PostMan
+- **Languages:** C#, C++, Java, Python, Javascript, TypeScript, CSS, HTML
+- **Backend Development:** .Net, ASP.NET
+- **Frontend Development:** ReactJS, AngularJS, WPF
+- **Mobile Development:** UWP, Xamarin
+- **Databases:** SQL, SQL Server, MySQL, SQLite, Cosmos DB, MongoDB
+- **Frameworks/Tools:**  Entity Framework, Dapper, Swagger, PostMan
 - **Cloud Platforms:** Azure, AWS
 - **Version Control:** Git
 - **Software Design:** SOLID Principles, Design Patterns, Clean Code
