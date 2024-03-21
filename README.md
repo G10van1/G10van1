@@ -33,9 +33,10 @@ Continuous learning, always willing to know and learn new technologies.
 - **Frontend Development:** ReactJS, AngularJS, WPF
 - **Mobile Development:** UWP, Xamarin
 - **Databases:** SQL, SQL Server, MySQL, SQLite, Cosmos DB, MongoDB
-- **Frameworks/Tools:**  Entity Framework, Dapper, Swagger, PostMan
+- **Frameworks/Tools:**  Entity Framework, Dapper, Swagger, PostMan, Visual Studio, VS Code
 - **Cloud Platforms:** Azure, AWS
-- **Version Control:** Git
+- **Version Control:** Git, GitHub, GitFlow
+- **DevOps:** Docker, OpenShift, Kubernates, CI/CD
 - **Software Design:** SOLID Principles, Design Patterns, Clean Code
 - **Most Used Languages:** 
     
