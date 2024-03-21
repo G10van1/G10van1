@@ -16,7 +16,7 @@ Aprendizado contínuo, sempre disposto a conhecer e aprender novas tecnologias.
 - **Frontend Desenvolvimento:** ReactJS, AngularJS, WPF
 - **Mobile Desenvolvimento:** UWP, Xamarin
 - **Bancos de Dados:** SQL, SQL Server, MySQL, SQLite, Cosmos DB, MongoDB
-- **Frameworks/Ferramentas:**  Entity Framework, Dapper, Swagger, PostMan, Visual Studio, VS Code
+- **Frameworks/Ferramentas:**  Entity Framework, Dapper, Swagger, PostMan, Visual Studio, VS Code, NUnit
 - **Plataformas de Nuvem:** Azure, AWS
 - **Controle de Versão:** Git, GitHub, GitFlow
 - **DevOps:** Docker, OpenShift, Kubernates, CI/CD
