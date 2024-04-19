@@ -11,11 +11,11 @@ Busco a melhoria contínua, pessoal e profissional. Acredito muito na troca e co
 Aprendizado contínuo, sempre disposto a conhecer e aprender novas tecnologias.
 
 ## Tecnologias 💻
-- **Linguagens:** C#, C++, Java, Python, Javascript, TypeScript, CSS, HTML
+- **Linguagens:** C#, C++, Java, Python, Javascript, TypeScript, CSS, HTML, SQL
 - **Backend Desenvolvimento:** .Net, ASP.NET
 - **Frontend Desenvolvimento:** ReactJS, AngularJS, WPF
 - **Mobile Desenvolvimento:** UWP, Xamarin
-- **Bancos de Dados:** SQL, SQL Server, MySQL, SQLite, Cosmos DB, MongoDB
+- **Bancos de Dados:** SQL Server, MySQL, SQLite, Cosmos DB, MongoDB
 - **Frameworks/Ferramentas:**  Entity Framework, Dapper, Swagger, PostMan, Visual Studio, VS Code, NUnit
 - **Plataformas de Nuvem:** Azure, AWS
 - **Controle de Versão:** Git, GitHub, GitFlow
